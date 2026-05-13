@@ -13,10 +13,6 @@
 </a>
 <p align="right">
   <sub>🎨 Banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
-</p>" alt="Banner by @jia_hagi0826" width="100%" />
-</a>
-<p align="right">
-  <sub>🎨 Banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
 </p>
 <br/>
 
