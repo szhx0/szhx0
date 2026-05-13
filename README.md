@@ -1,16 +1,71 @@
-## Hi there 👋
+<p>
+  <img align="left" src="https://komarev.com/ghpvc/?username=szhx0&label=Profile%20views&color=555555&style=for-the-badge" />
+</p>
 
-<!--
-**szhx0/szhx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=Hey+I'm+szhx0.;I+break+things+to+understand+them.;Offense+informs+Defense." alt="Typing SVG" />
+  <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=szhx0&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=szhx0&theme=dark&hide_border=true&cache_seconds=86400&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff" />
+</p>
+
+<br>
+
+> 🌐 &nbsp; **Location** &nbsp;—&nbsp; United States
+
+> 💻 &nbsp; **Currently working on** &nbsp;—&nbsp; Sharpening both sides of the blade — offense and defense
+
+> 📖 &nbsp; **Currently learning** &nbsp;—&nbsp; Advanced penetration testing & threat detection
+
+> ❤️ &nbsp; **Passionate about** &nbsp;—&nbsp; Understanding how things break, then making them unbreakable
+
+> 🤝 &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; CTF challenges, open-source security tooling
+
+> 💬 &nbsp; **Ask me about** &nbsp;—&nbsp; Anything security — red team, blue team, or somewhere in between
+
+> ☕ &nbsp; **Fun fact** &nbsp;—&nbsp; I focus on both the offensive and defensive side — because you can't truly defend what you haven't tried to break
+
+<br>
+
+**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,c&perline=10" />
+</p>
+
+**Offensive Security**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+**Defensive Security**
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Analysis-111111?style=for-the-badge&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=10" />
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
