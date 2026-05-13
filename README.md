@@ -8,9 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=Hey+I'm+szhx0.;I+break+things+to+understand+them.;Offense+informs+Defense." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
-<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/image_2026-05-13_040439483.png" alt="Banner by @jia_hagi0826" width="100%" />
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495" target="_blank">
+  <img src="https://media.githubusercontent.com/media/acheronx0577/New-folder--2-/refs/heads/main/good.gif?token=BHTD6RWAEGQWRXTD3XTEBCTKAQH7M" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
+<p align="right">
+  <sub>🎨 Banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
+</p>
 <br/>
 
 <p align="center">
