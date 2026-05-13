@@ -25,9 +25,6 @@
 
 <br/>
 
-i do cybersecurity — mostly learning both sides of it, red and blue.
-outside of that i'm into game dev, 3D modeling anime characters in Blender, and building things with Next.js and React.
-nothing too serious, just things i find interesting.
 
 <br/>
 
