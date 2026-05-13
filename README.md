@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=Hi,+I'm+szhx0.;You+can+call+me+Suzu+/Sayuri.;Offensive+Security.;Web+Developer.;3D+Modeler+%2F+Artist." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
-
-<img src="https://raw.githubusercontent.com/szhx0/img-files/main/2-8-3.jpg" alt="Banner" width="100%" />
-
+<img src="https://raw.githubusercontent.com/szhx0/img-files/main/2-8-3.jpg" alt="Banner" width="50%" />
 <br/>
 
 <p align="center">
