@@ -31,17 +31,17 @@ nothing too serious, just things i find interesting.
 
 <br/>
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Home.svg" width="22"/> &nbsp; based in the US
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Home.svg" width="22"/> &nbsp; Location - United States
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Laptop.svg" width="22"/> &nbsp; working on — pentesting & getting better at both offense and defense
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Laptop.svg" width="22"/> &nbsp; Working on - Penetration Testing labs 
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Learn.svg" width="22"/> &nbsp; learning — advanced pen testing, threat detection, Next.js
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Learn.svg" width="22"/> &nbsp; Learning — Web Apps Security
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; open to — CTF collabs, open-source security stuff
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; Looking to collaborate on - Web application security
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; ask me about — red team, blue team, or anywhere in between
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; More about me: I do 2D illustration and 3D modeling beside of cyber works. 
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Coffee.svg" width="22"/> &nbsp; fun fact — i do game dev. i sculpt 3D anime characters in Blender and build them out in Unity. started as a hobby and kind of just stayed that way.
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Coffee.svg" width="22"/> &nbsp; Fun fact about me: Can't function without having Spotify playing.
 
 <br/>
 
