@@ -11,9 +11,6 @@
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/image_2026-05-13_040439483.png" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
-<p align="right">
-  <sub>🎨 Banner by <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495</a></sub>
-</p>
 <br/>
 
 <p align="center">
