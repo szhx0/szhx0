@@ -9,12 +9,7 @@
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495" target="_blank">
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/image_2026-05-13_040439483.png" alt="Banner" width="100%" />
-</a>
-<p align="right">
-  <sub>🎨 banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
-</p>
+<img src="https://raw.githubusercontent.com/szhx0/img-files/main/2-8-3.jpg" alt="Banner" width="100%" />
 
 <br/>
 
