@@ -47,29 +47,31 @@
 
 <br/>
 
-**languages**
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c&perline=10" />
+  <img src="https://skillicons.dev/icons?i=bash,py,c&perline=10" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
 </p>
-
-**offensive security**
+**Offensive Security**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali&perline=10" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" />
 </p>
-
-**defensive security**
+**Defensive Security**
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Analysis-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E4002B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white" />
 </p>
 
-**devops & tools**
+**Devs Ops**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=10" />
 </p>
