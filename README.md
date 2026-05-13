@@ -29,7 +29,7 @@
 
 > <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; Looking to collaborate on - CTF/Security Research
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; More about me: I do 2D illustration and 3D modeling beside of cyber works. 
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; More about me: I also do 2D illustration and 3D modeling.
 
 > <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Coffee.svg" width="22"/> &nbsp; Fun fact about me: Can't function without having Spotify playing.
 
