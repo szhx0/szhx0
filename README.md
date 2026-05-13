@@ -41,22 +41,6 @@
 
 <br/>
 
----
-
-### &nbsp; beyond the terminal
-
-*when i'm not poking at systems, i'm building them — just a different kind.*
-
-<br/>
-
-> 🎮 &nbsp; **Game Dev** &nbsp;—&nbsp; Building games in Unity. I like the part where everything is broken and somehow it works anyway.
-
-> 🧊 &nbsp; **3D Modeling** &nbsp;—&nbsp; Sculpting and rigging 3D anime characters in Blender. Getting the topology right is oddly satisfying — same energy as debugging.
-
-> 🌐 &nbsp; **Web Dev** &nbsp;—&nbsp; Building interfaces with Next.js & React. Mostly because knowing how the frontend is wired makes it a lot easier to find where it leaks.
-
-<br/>
-
 **Offensive Security**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali&perline=10" />
