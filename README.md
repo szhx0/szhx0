@@ -48,13 +48,6 @@ nothing too serious, just things i find interesting.
 
 <br/>
 
-**things i use**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,blender,unity&perline=10" />
-</p>
-
----
-
 <br/>
 
 **languages**
