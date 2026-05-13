@@ -1,7 +1,6 @@
 <p>
-  <img align="left" src="https://komarev.com/ghpvc/?username=szhx0&label=Profile%20views&color=555555&style=for-the-badge" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=szhx0&label=Profile%20views&color=ffffff&style=for-the-badge" />
 </p>
-
 <br/>
 <br/>
 
