@@ -19,19 +19,19 @@
 
 <br>
 
-> 🌐 &nbsp; **Location** &nbsp;—&nbsp; United States
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
 
-> 💻 &nbsp; **Currently working on** &nbsp;—&nbsp; Sharpening both sides of the blade — offense and defense
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Sharpening both sides of the blade — offense and defense
 
-> 📖 &nbsp; **Currently learning** &nbsp;—&nbsp; Advanced penetration testing & threat detection
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="22"/> &nbsp; **Currently learning** &nbsp;—&nbsp; Advanced penetration testing & threat detection
 
-> ❤️ &nbsp; **Passionate about** &nbsp;—&nbsp; Understanding how things break, then making them unbreakable
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="22"/> &nbsp; **Passionate about** &nbsp;—&nbsp; Understanding how things break, then making them unbreakable
 
-> 🤝 &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; CTF challenges, open-source security tooling
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="22"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; CTF challenges, open-source security tooling
 
-> 💬 &nbsp; **Ask me about** &nbsp;—&nbsp; Anything security — red team, blue team, or somewhere in between
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Discord.svg" width="22"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Anything security — red team, blue team, or somewhere in between
 
-> ☕ &nbsp; **Fun fact** &nbsp;—&nbsp; I focus on both the offensive and defensive side — because you can't truly defend what you haven't tried to break
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I focus on both the offensive and defensive side — because you can't truly defend what you haven't tried to break
 
 <br>
 
