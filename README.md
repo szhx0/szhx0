@@ -57,20 +57,6 @@
 
 <br/>
 
-**Tools I play with outside of security**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,blender,unity&perline=10" />
-</p>
-
----
-
-<br/>
-
-**Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c&perline=10" />
-</p>
-
 **Offensive Security**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali&perline=10" />
