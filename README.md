@@ -37,7 +37,7 @@ nothing too serious, just things i find interesting.
 
 > <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Learn.svg" width="22"/> &nbsp; Learning — Web Apps Security
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; Looking to collaborate on - Web application security
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; Looking to collaborate on - CTF/Security Research
 
 > <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; More about me: I do 2D illustration and 3D modeling beside of cyber works. 
 
