@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=hey,+i'm+szhx0.;i+break+things+to+understand+them.;offense+informs+defense." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=hi,+i'm+szhx0.;you+can+call+me+Suzu+or+Sayuri.;Offensive+Security.;Web+Developer.;3D+Modeler+%2F+Artist." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
 
@@ -45,16 +45,6 @@ nothing too serious, just things i find interesting.
 
 <br/>
 
----
-
-### the creative side
-
-i got into 3D modeling through game dev — wanted to make characters that actually looked the way i imagined them.
-Blender for sculpting and rigging, Unity to bring them into a world.
-it's slow work but that's kind of the point.
-
-i also do web stuff with Next.js and React when i have something worth building.
-knowing how a frontend is put together helps a lot when you're trying to find where it breaks.
 
 <br/>
 
