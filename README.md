@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=hi,+i'm+szhx0.;you+can+call+me+Suzu+or+Sayuri.;Offensive+Security.;Web+Developer.;3D+Modeler+%2F+Artist." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=Hi,+I'm+szhx0.;you+can+call+me+Suzu+/Sayuri.;Offensive+Security.;Web+Developer.;3D+Modeler+%2F+Artist." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
 
