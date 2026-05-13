@@ -47,13 +47,13 @@
 
 <br/>
 
-**Languages**
+<h3>Languages<h/3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,py,c&perline=10" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
 </p>
-**Offensive Security**
+<h3>Offensive Security</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali&perline=10" />
 </p>
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" />
 </p>
-**Defensive Security**
+<h3>Defensive Security</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white" />
 </p>
 
-**Devs Ops**
+<h3>Dev Ops<h/3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=10" />
 </p>
