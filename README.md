@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=szhx0&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=szhx0&theme=dark&hide_border=true&cache_seconds=86400&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=szhx0&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=00000000" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=szhx0&theme=dark&hide_border=true&cache_seconds=86400&background=00000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff" />
 </p>
 
 <br>
