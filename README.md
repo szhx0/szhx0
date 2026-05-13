@@ -5,15 +5,15 @@
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=Hey+I'm+szhx0.;I+break+things+to+understand+them.;Offense+informs+Defense.;I+also+build+worlds+in+my+spare+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=FFFFFF&width=500&height=50&lines=hey,+i'm+szhx0.;i+break+things+to+understand+them.;offense+informs+defense." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&labelColor=111111&color=555555" />
 </p>
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3707010495" target="_blank">
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/image_2026-05-13_040439483.png" alt="Banner by @jia_hagi0826" width="100%" />
+  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/image_2026-05-13_040439483.png" alt="Banner" width="100%" />
 </a>
 <p align="right">
-  <sub>🎨 Banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
+  <sub>🎨 banner by <a href="https://steamcommunity.com/id/malf40">MALF</a></sub>
 </p>
 
 <br/>
@@ -25,23 +25,54 @@
 
 <br/>
 
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Sharpening both sides of the blade — offense and defense
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Learn.svg" width="22"/> &nbsp; **Currently learning** &nbsp;—&nbsp; Advanced penetration testing, threat detection & Next.js
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Heart.svg" width="22"/> &nbsp; **Passionate about** &nbsp;—&nbsp; Understanding how things break, then making them unbreakable
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; CTF challenges, open-source security tooling
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Anything security — red team, blue team, or somewhere in between
-
-> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I focus on both the offensive and defensive side — because you can't truly defend what you haven't tried to break
+i do cybersecurity — mostly learning both sides of it, red and blue.
+outside of that i'm into game dev, 3D modeling anime characters in Blender, and building things with Next.js and React.
+nothing too serious, just things i find interesting.
 
 <br/>
 
-**Offensive Security**
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Home.svg" width="22"/> &nbsp; based in the US
+
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Laptop.svg" width="22"/> &nbsp; working on — pentesting & getting better at both offense and defense
+
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Learn.svg" width="22"/> &nbsp; learning — advanced pen testing, threat detection, Next.js
+
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Github.svg" width="22"/> &nbsp; open to — CTF collabs, open-source security stuff
+
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Discord.svg" width="22"/> &nbsp; ask me about — red team, blue team, or anywhere in between
+
+> <img src="https://raw.githubusercontent.com/szhx0/SVG-Icons/refs/heads/main/Coffee.svg" width="22"/> &nbsp; fun fact — i do game dev. i sculpt 3D anime characters in Blender and build them out in Unity. started as a hobby and kind of just stayed that way.
+
+<br/>
+
+---
+
+### the creative side
+
+i got into 3D modeling through game dev — wanted to make characters that actually looked the way i imagined them.
+Blender for sculpting and rigging, Unity to bring them into a world.
+it's slow work but that's kind of the point.
+
+i also do web stuff with Next.js and React when i have something worth building.
+knowing how a frontend is put together helps a lot when you're trying to find where it breaks.
+
+<br/>
+
+**things i use**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,blender,unity&perline=10" />
+</p>
+
+---
+
+<br/>
+
+**languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,c&perline=10" />
+</p>
+
+**offensive security**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali&perline=10" />
 </p>
@@ -51,14 +82,14 @@
   <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-**Defensive Security**
+**defensive security**
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Threat%20Analysis-111111?style=for-the-badge&logoColor=white" />
 </p>
 
-**DevOps & Tools**
+**devops & tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=10" />
 </p>
